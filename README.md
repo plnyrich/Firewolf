@@ -1,5 +1,9 @@
 # Firewolf
-Secure Web Template with Content Management System.
+Secure Content Management System with example website.
+
+Firewolf implementation can be found in the [firewolf/ folder](firewolf/).
+<br>
+Example website can be found in the [example/ folder](example/).
 
 ## Settings
 |||
